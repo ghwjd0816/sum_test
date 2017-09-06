@@ -1,4 +1,3 @@
-#pragma once
+#pragma one
 
-int sum(int n);
-
+int sum(int);
